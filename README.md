@@ -35,5 +35,3 @@ JavaScript
 React Navigation
 FakeStore API
 
-Link Expo Snack
-https://snack.expo.dev/@chelsiaelisa/5535ce
