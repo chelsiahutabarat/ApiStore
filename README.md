@@ -28,4 +28,12 @@ FakeStore API (https://fakestoreapi.com/)
 npm install
 npx expo start
 
-Link Expo Snack : https://snack.expo.dev/@chelsiaelisa/5535ce
+Tech Stack
+React Native
+Expo
+JavaScript
+React Navigation
+FakeStore API
+
+Link Expo Snack
+https://snack.expo.dev/@chelsiaelisa/5535ce
