@@ -27,3 +27,5 @@ FakeStore API (https://fakestoreapi.com/)
 ```bash
 npm install
 npx expo start
+
+Link Expo Snack : https://snack.expo.dev/@chelsiaelisa/5535ce
